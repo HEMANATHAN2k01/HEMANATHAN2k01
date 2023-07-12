@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HEMANATHAN A S</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanathan2k01&label=Profile%20views&color=0e75b6&style=flat" alt="hemanathan2k01" /> </p>
+<p align="left"> <img src="https://images.app.goo.gl/QigHHz2b3DjibKFi6" alt="hemanathan2k01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanathan2k01" alt="hemanathan2k01" /></a> </p>
 
