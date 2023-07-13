@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HEMANATHAN A S</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif" alt="hemanathan2k01" /> </p>
+<p align="center"> <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif" alt="hemanathan2k01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanathan2k01" alt="hemanathan2k01" /></a> </p>
 
