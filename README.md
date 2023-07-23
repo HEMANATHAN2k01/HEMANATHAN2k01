@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development with MERN Stack**
 
-- 👨‍💻my portfolio projects are available at [[https://hemanathan2k01.github.io/upgradePortfolio/](https://hemanathan2k01.github.io/portFolio/)]
+- 👨‍💻my portfolio projects are available at [[PortFolio](https://hemanathan2k01.github.io/portFolio/)]
 
 - 📫 How to reach me **hemanathan2k01@gmail.com**
 
