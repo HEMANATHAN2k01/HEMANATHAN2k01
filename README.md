@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HEMANATHAN A S</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-p align="center"> <img src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Mean-Stack-Vs-Full-Stack-Developer.gif)" alt="hemanathan2k01" /> </p>
+p align="center"> <img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Mean-Stack-Vs-Full-Stack-Developer.gif" alt="hemanathan2k01" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanathan2k01&label=Profile%20views&color=0e75b6&style=flat" alt="hemanathan2k01" /> </p>
